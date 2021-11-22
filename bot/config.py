@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "2094254118:AAGvgHJ593CiyTqPofKVF7QBCNF2AMtPVbQ"
+    APP_ID = "3607276"
+    API_HASH = "91ccab764e9bd5466ed84e14ae2a5a9c"
+    DATABASE_URL = "postgres://uvwzriluzrfdzr:1ec05773873f16bc990e52d42eea995361c7f658"
+    SUDO_USERS = "-1001637774648" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "383475063896-t25q17v6cec5ai6c2ga4lpil2ri6f14v.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "t.me/mjgdrive"
 
 
 class BotCommands:
